@@ -1,0 +1,12 @@
+[
+    {
+        "model": "mistralai_mistral-7b-instruct-v0.2",
+        "base_url": "http://localhost:5000/v1",
+        "api_key": "12355ed",
+        "api_type": "open_ai",
+        "context_window": 8192,
+        "preset": "memgpt_chat", 
+        "model_endpoint_type": "openai",
+        "openai_key": "YOUR_OPENAI_KEY"
+    }
+]
