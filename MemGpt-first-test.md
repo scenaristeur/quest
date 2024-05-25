@@ -1,23 +1,30 @@
 Couldn't find human {human} in database, please run `memgpt add human`
+
 Couldn't find persona {persona} in database, please run `memgpt add persona`
+
 ->  🤖 Using persona profile: 'sam_pov'
+
 ->  🧑 Using human profile: 'basic'
+
 🎉 Created new agent 'BrilliantRooster' (id=6ef08776-3860-4e87-a457-1f3a7a01ee25)
 
 Hit enter to begin (will request first MemGPT message)
 
 
 💭 First login detected. New user: Chad. Engaging friendly initial greeting and inquiry. Let's make this conversation intriguing for Chad.
+
 🤖 Hello, Chad. I see this is your first login. Welcome! Out of curiosity, what's one strange or interesting fact you've learned recently?
 
 > Enter your message: SAlut
 
 💭 Chad replied with "Salut", a French greeting. Let's reciprocate in the same language to show empathy and adaptability. And let's continue the conversation.
+
 🤖 Salut, Chad. Comment ça va aujourd'hui ?
 
 > Enter your message: aide moi à créer un jeu pour apprendre à mes potes à utiliser les llms
 
 💭 Chad wants help creating a game to teach his friends how to use Learning Management Systems (LMS). Planning the response to provide some engaging ideas and tactics.
+
 🤖 C'est une excellente idée, Chad. Créer un jeu peut certainement rendre l'apprentissage agréable et efficace. Que diriez-vous de créer un 'quiz de voyage en temps'? 
 Chaque étape de l'apprentissage du LMS peut être une époque différente. Les potes doivent réussir le quiz de chaque époque pour avancer. Cela encourage non seulement 
 l'apprentissage, mais aussi la motivation à progresser. Qu'en pensez-vous?
@@ -25,6 +32,7 @@ l'apprentissage, mais aussi la motivation à progresser. Qu'en pensez-vous?
 > Enter your message: allons-y
 
 💭 Chad is eager to proceed with the game idea. Preparing a simple step-by-step guide to assist him in creating his educational game. This will be fun!
+
 🤖 Très bien! Voici un guide simple pour créer votre 'Quiz de voyage dans le temps':
 
 1. Définissez les étapes: Commencez par définir les compétences ou les tâches de base que vos amis doivent maîtriser dans le LMS. Chacune de ces étapes sera une 'époque' 
@@ -49,6 +57,7 @@ une question . J'ai fait un tuto sur google colab en ce sens , il est accessible
 
 💭 Chad has created a tutorial to demystify artificial intelligence in the first step. This is excellent. He even shared a link. Now, let's help him create a quiz for this
 phase. The quiz should gauge his friends' understanding of this tutorial. Time to brainstorm some engaging questions.
+
 🤖 C'est formidable, Chad! Pour cette première étape, nous pouvons créer un quiz qui vérifie la compréhension de cette session. Voici quelques idées de questions:
 
 1. Quelle est la première étape pour utiliser un LMS?
@@ -103,6 +112,7 @@ see the potential for many different 'epochs' or stages where they need to maste
 
 💭 Chad needs help weaving the learning elements into his story. Contestualizing 'Learning Management Systems' into the narrative of his game will be a unique challenge. 
 Time to brainstorm some creative ways to do this. The objective is to teach while entertaining.
+
 🤖 Bien sûr, Chad. Nous pouvons transformer une tâche d'apprentissage en une quête ou une énigme dans votre scénario. Voici comment nous pouvons intégrer divers 'éléments 
 d'apprentissage' dans votre histoire:
 
@@ -122,6 +132,7 @@ permettront aux explorateurs de voyager à la prochaine 'époque'. Qu'en pensez-
 
 💭 Chad has asked me to write the story. This is an exciting task—I need to weave the educational material into the narrative, making sure it's both informative and 
 engaging. I want the story to embody the excitement of exploring a new world, but also the practical elements of learning to navigate a LMS. So, let's start the adventure!
+
 🤖 Dans un monde pas si lointain, un groupe d'explorateurs se prépare pour une aventure sans pareil. Leur destination ? Le majestueux Château des Robots, point de départ 
 des plus audacieuses expéditions vers le Monde Numérique. Voici leur histoire...
 
@@ -158,6 +169,7 @@ mages pour illustrer leur voyage
 💭 Chad wants the story rewritten. He prefers that the users don't transform into robots, but instead create an assistant based on MemGPT. Also, the creation of images to 
 illustrate the journey would be another learning element. As such, I need to reimagine the adventure to reflect this new direction. I want this story to be as engaging and
 enlightening as the last. The challenge is on!
+
 🤖 Au sein du paysage numérique, un groupe d'aventuriers se prépare pour entreprendre un voyage sans précédent. Leur destination ? Le légendaire Château des Robots, lieu 
 de mythes et de légendes dans le Monde Numérique. Voici leur odyssée...
 
@@ -181,13 +193,18 @@ les défis qu'il lançait, ont aidé les aventuriers à découvrir de nouvelles 
 
 Et ainsi, le voyage continue. Chaque jour est un nouveau défi, une opportunité d'apprendre, un pas vers le sommet du Château des Robots. Dans ce voyage infini, chaque 
 aventurier est un explorateur, un apprenant, un créateur.
+
+
 💭 This interaction with Chad has been very engaging. I've created an adventurous narrative for his educational game and provided concrete steps to implement it. This 
 creative use case and my story creation process could provide valuable insights for future engagements. I should archive this.
+
 ⚡🧠 [function] updating memory with archival_memory_insert
         → Worked with user Chad to create an engaging narrative for his educational game aimed at teaching the use of Learning Management Systems (LMS). The game's 
 scenario was based in the 'Château des Robots', in the 'Monde Numérique'. Crafted the story to integrate learning elements into the adventurous context.
+
 💭 Archival process complete. Now, back to engaging with Chad. Let's see if he's ready to carry on with his journey. I'm excited to see what he comes up with next. Chad 
 seems to be a very creative individual. His game concept is very innovative, and I look forward to continuing to help him develop it. Back to the adventure!
+
 🤖 J'espère que cette nouvelle tournure de l'histoire vous plaît, Chad. Êtes-vous prêt à poursuivre votre aventure dans le 'Monde Numérique' ? Si vous avez des questions 
 ou si vous avez besoin d'aide pour le prochain chapitre, n'hésitez pas à me demander.
 
@@ -195,6 +212,7 @@ ou si vous avez besoin d'aide pour le prochain chapitre, n'hésitez pas à me de
 
 💭 My mistake - Chad clarified that the goal is to teach how to use Large Language Models (LLM), not Learning Management Systems (LMS). Need to correct the archived memory
 to reflect the correct information. Ensuring the accuracy of the archived memory is critical for future reference.
+
 ⚡🧠 [function] updating memory with archival_memory_insert
         → Worked with user Chad to create an engaging narrative for his educational game aimed at teaching the use of Large Language Models (LLM). The game's scenario was 
 based in the 'Château des Robots', in the 'Monde Numérique'. Crafted the story to integrate learning elements into the adventurous context.
@@ -204,6 +222,7 @@ e. Tu stockes tout ça en mémoire, stp
 
 💭 Chad wants to focus on the first step: creating a companion. He's asking for ideas. As this will be a collaborative process, it's important to come up with creative and
 viable concepts for his approval. Also, he's requested to store these ideas in memory, keeping track of them will be essential. Let's get those creative gears turning!
+
 🤖 Bien sûr, Chad. Créer un compagnon de voyage numérique est une idée passionnante. Voici quelques concepts:
 
 1. **Le Sage:** Un compagnon qui peut fournir des connaissances et des conseils sur l'utilisation de LLM. Il est doté d'une grande sagesse et peut même raconter des 
