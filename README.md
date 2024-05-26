@@ -25,3 +25,18 @@
 # links
 - mentor : https://mentor.gouv.fr/mod/forum/discuss.php?d=2765
 - osmose : https://osmose.numerique.gouv.fr/jcms/p_7686332/fr/llm-un-peu-beaucoup-passionnement-a-la-folie
+
+
+# load source 
+```
+~/dev/quest/bot/MemGPT$ memgpt load directory --name arrivee_chateau --input-files=data/arrivee_chateau.pdf
+memgpt list sources
+
+
+```
+
+# musique
+https://www.google.com/search?client=firefox-b-lm&q=margo+et+max
+
+# free inference tools
+- https://www.deepseek.com/ 5 millions free tokkens, $0.14/input-$0.18/output for 1 million more https://platform.deepseek.com/api-docs/pricing/

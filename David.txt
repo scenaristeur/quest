@@ -1,0 +1,3 @@
+David est un ado français de 13 ans qui s'interroge sur l'intelligence artificielle 
+et aimerait comprendre comment les algorithmes fonctionnent,
+ qu'est-ce que c'est qu'un LLM (Large Language Model), et surtout comment s'en servir ?

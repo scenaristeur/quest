@@ -10,6 +10,23 @@ pip install -r requirements.txt
 
 ```
 
+# configure with groq
+
+# run client
+python admin_client.py
+
+
+
+
+
+
+
+
+
+
+
+
+
 # configure with local llm
 
 - https://memgpt.readme.io/docs/local_llm
