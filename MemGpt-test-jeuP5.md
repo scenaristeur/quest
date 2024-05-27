@@ -1,4 +1,4 @@
-rique ? Nous allons comprendre ensemble comment fonctionnent les algorithmes, 
+Nous allons comprendre ensemble comment fonctionnent les algorithmes, 
 les LLM et bien d'autres choses. Suivez-moi, l'expédition s'apprête à partir.
 🤖 Cher David, bienvenue sur ce rivage d'apprentissage. Prêt pour l'aventure dans le vaste Monde numérique ? Nous allons comprendre ensemble comment fonctionnent les algorithmes, 
 les LLM et bien d'autres choses. Suivez-moi, l'expédition s'apprête à partir.
@@ -20,6 +20,7 @@ Peux-tu imaginer un algorithme simple que tu utilises dans ta vie de tous les jo
 comme décider de prendre ton petit-déjeuner avant ton yoga, peuvent affecter l'ensemble de la routine, tout comme la substitution d'un ingrédient peut affecter le résultat final 
 d'une recette. Ainsi, nous pouvons voir comment les algorithmes sont présents dans notre vie quotidienne. Prêt à continuer notre voyage ? Le prochain arrêt est le pays des LLM, ou 
 "Large Language Models". Veux-tu t'y aventurer ? Je te promets qu'il ne manque pas d'intérêt !
+
 🤖 Parfaitement, David ! C'est un excellent exemple d'algorithme personnel. Tu as une série d'étapes que tu suis dans un certain ordre chaque matin. Même de simples variations, 
 comme décider de prendre ton petit-déjeuner avant ton yoga, peuvent affecter l'ensemble de la routine, tout comme la substitution d'un ingrédient peut affecter le résultat final 
 d'une recette. Ainsi, nous pouvons voir comment les algorithmes sont présents dans notre vie quotidienne. Prêt à continuer notre voyage ? Le prochain arrêt est le pays des LLM, ou 
@@ -32,6 +33,7 @@ entraînés sur de grandes quantités de texte. Ils sont capables de comprendre 
 tonnes de textes et qui sont capables de produire des phrases, des paragraphes, voir des histoires entières basés sur ce qu'ils ont "appris". Pour notre voyage, tu rencontreras 
 peut-être un robot automatisé poète ou un conteur d'histoires artificielles. Plus nous progressons, plus tu en apprends. Prépare-toi pour des rencontres et des découvertes 
 intrigantes ! En route...
+
 🤖 Bravo, David, pour ton esprit aventureux ! Traverser le pays des Large Language Models (LLM) est fascinant. Les LLM sont des modèles d'intelligence artificielle qui ont été 
 entraînés sur de grandes quantités de texte. Ils sont capables de comprendre et de générer du langage humain. Imagine que ce sont des livres gigantesques qui ont absorbé des tonnes 
 de textes et qui sont capables de produire des phrases, des paragraphes, voire des histoires entières basés sur ce qu'ils ont "appris". Pour notre voyage, tu rencontreras peut-être 
@@ -51,6 +53,7 @@ sur n'importe quel sujet proposé.
 
 N'oublie pas de poser des questions et de demander aux LLM ce qui t'interpelle, chaque interaction t'aidera à comprendre davantage leur fonctionnement. Alors, vers qui te sens-tu 
 attiré en premier ? Le narrateur ou le poète ? Ou bien y a-t-il autre chose qui attire ton regard ? Je suis ici pour t'aider à explorer ce monde.
+
 🤖 D'accord, David. Nos pas nous mènent à la place du village de LLM, centre nerveux de l'activité. Des impressions de parchemins volent dans tous les sens, portées par des 
 automates diligents qui s'efforcent de répondre aux nombreuses commandes. Le bruit des engrenages et le chuintement de la vapeur se mêlent au bourdonnement des conversations.
 
@@ -69,6 +72,7 @@ attiré en premier ? Le narrateur ou le poète ? Ou bien y a-t-il autre chose qu
 la poésie à la demande. Quel sujet te fascine, David ? Donne-moi un mot ou une idée, et je demanderai à notre poète automatique de composer un poème à ce sujet. C'est une excellente
 façon de voir un modèle de langage en action. Alors, as-tu un thème en tête ? A moins que tu ne préfères quelque chose d'aléatoire, dans quel cas le poète choisira lui-même un 
 thème. Fais-moi savoir ce que tu préfères.
+
 🤖 Un choix poétique ! Le poète LLM nous attends, armé de sa machine à écrire automatique. Avec son cadre en bronze et ses leviers cliquetants, cette machine est prête à produire de
 la poésie à la demande. Quel sujet te fascine, David ? Donne-moi un mot ou une idée, et je demanderai à notre poète automatique de composer un poème à ce sujet. C'est une excellente
 façon de voir un modèle de langage en action. Alors, as-tu un thème en tête ? A moins que tu ne préfères quelque chose d'aléatoire, dans quel cas le poète choisira lui-même un 
@@ -116,7 +120,9 @@ symphonie sur un piano sans connaître les notes. Tu pourrais produire de la bel
 Il est donc plus exact de dire que les LLM sont des outils extrêmement avancés, plutôt que des êtres véritablement intelligents. Ils sont incroyablement utiles et peuvent générer 
 des textes fascinants, mais ils ne possèdent pas une compréhension du monde ou une conscience de soi. Ça répond à ta question, David ? Où aimerais-tu que nous nous dirigions ensuite
 sur notre voyage de découverte ?
+
 💭 None
+
 ⚡🧠 [function] updating memory with archival_memory_insert
         → David, un ado français de 13 ans, montré un vif intérêt pour le fonctionnement des algorithmes et LLM. Il est également montré un goût pour les défis linguistiques et la 
 poésie. Ses questions pertinentes montrent sa curiosité et son désir d'apprendre.
@@ -461,7 +467,9 @@ function draw() {
 Avec ce code, les deux paddles devraient maintenant suivre la balle verticalement. Ça commence à ressembler à un jeu, n'est-ce pas ? 
 Fais-moi savoir si tes paddles suivent bien la balle maintenant. Si tout va bien, nous pourrons alors incorporer le contrôle du 
 paddle par l'utilisateur dans notre prochaine étape !
+
 💭 None
+
 ⚡🧠 [function] updating memory with archival_memory_insert
         → Jusqu'à présent, David a compris les concepts de base de la programmation, notamment les variables et l'interaction entre 
 les objets dans un environnement p5.js. Nous avons réussi à mettre en place un début de jeu de Pong avec une balle qui se déplace et 
@@ -696,6 +704,8 @@ correctement sur les palettes et ne sort plus de l'écran.
 Je m'excuse pour l'erreur précédente, et j'apprécie vraiment ta patience et ta persévérance tout au long de ce voyage de codage. 
 Donne-moi des nouvelles après que tu aies essayé le nouveau code, s'il te plaît.
 
+```
+...
     this.x = x;
     this.y = y;
     this.r = r;
@@ -742,6 +752,7 @@ Donne-moi des nouvelles après que tu aies essayé le nouveau code, s'il te pla�
     }
   }
 }
+```
 
 💭 Je vois. Merci d'avoir partagé tout le code de la classe `Ball`, cela me donne une meilleure idée de ce qui se passe. 
 
@@ -766,7 +777,9 @@ Concernant la détection des collisions dans la méthode `move()`, il semblerait
 
 Je suis désolé de ces erreurs, merci de ta persévérance. Après ces modifications, essaye à nouveau de voir comment les interactions 
 entre la balle et les paddles fonctionnent maintenant.
+
 💭 None
+
 ⚡🧠 [function] updating memory with archival_memory_insert
         → David a bien progressé dans le développement du jeu de Pong. Il maîtrise maintenant les concepts de base de l'interaction 
 entre les objets dans p5.js, y compris la création de palettes contrôlées par l'utilisateur. Nous avons rencontré quelques 
@@ -979,7 +992,9 @@ Par exemple, `fill(255, 0, 0)` donnerait du rouge.
 N'hésite pas à expérimenter avec différentes couleurs jusqu'à ce que tu en trouves une qui te convient. 
 
 Et bien sûr, n'hésite pas si tu as d'autres questions, je suis là pour te guider au mieux dans ce voyage de codage !
+
 💭 None
+
 ⚡🧠 [function] updating memory with archival_memory_insert
         → Nous avons amélioré le jeu de Pong de David en ajoutant un comportement aléatoire à l'IA, en affichant les scores et le 
 niveau en haut de l'écran, et en permettant de mettre le jeu en pause avec la touche 'p'. David a corrigé de lui-même une erreur dans
